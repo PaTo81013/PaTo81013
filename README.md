@@ -1,16 +1,24 @@
-## Hi there 👋
+## PaTo
 
-<!--
-**PaTo81013/PaTo81013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Buenas!, soy un desarrollador de software que le encantan los videojuegos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos en los que estoy o he trabajado:
+- 🦍 **The Journey of the Zoo** – Shooter 3D con estilo voxel y progresión tipo *Dead Ops Arcade*.
+- 🧩 **Memorama** – Juego de memoria con modo multijugador local.
+- 🦆 **Where is My Wife** - Plataformero 2d de precision de estilo retro
+- 📤 **Tray Dash** - Juego para movil sobre balancear comida sobre un plato.
+---
+
+### 📚 Actualmente aprendiendo:
+- Sistemas de gestión de bases de datos (MySQL + PHP + Unity)
+---
+
+### 🤝 Me interesa colaborar en:
+- Proyectos de videojuegos indie
+- Diseño de Niveles y Narrativa.
+
+---
+
+---
